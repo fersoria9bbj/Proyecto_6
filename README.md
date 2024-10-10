@@ -6,4 +6,4 @@ Este proyecto es una aplicación web interactiva que analiza datos de vehículos
 La aplicación está dirigida tanto a compradores como a vendedores de autos, así como a cualquier persona interesada en explorar los patrones de kilometraje y precios de los vehículos en el mercado estadounidense.
 
 proyecto_6 herramientas desarrollo de software
-link:https://proyecto-6-dc3d.onrender.com
+link:https://proyecto-6-1-hua5.onrender.com
